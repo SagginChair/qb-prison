@@ -31,7 +31,7 @@ Config.Locations = {
         },
     },
     ["freedom"] = {
-        coords = vector4(1836.37, 2585.33, 45.89, 272.96),
+        coords = vector4(1828.79, 2580.21, 46.01, 182.25),
     },
     ["outside"] = {
         coords = vector4(1848.13, 2586.05, 45.67, 269.5),
@@ -43,7 +43,7 @@ Config.Locations = {
         coords = vector4(1693.33, 2569.51, 45.55, 123.5),
     },
     ["shop"] = {
-        coords = vector4(1786.19, 2557.77, 45.62, 0.5),
+        coords = vector4(1780.97, 2558.48, 45.67, 358.34),
     },
     spawns = {
         [1] = {
@@ -96,7 +96,7 @@ Config.Locations = {
 Config.CanteenItems = {
     [1] = {
         name = "sandwich",
-        price = 4,
+        price = 15,
         amount = 50,
         info = {},
         type = "item",
@@ -104,7 +104,7 @@ Config.CanteenItems = {
     },
     [2] = {
         name = "water_bottle",
-        price = 4,
+        price = 15,
         amount = 50,
         info = {},
         type = "item",
